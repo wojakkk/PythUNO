@@ -34,8 +34,16 @@ Clone or download this repository, then navigate to the directory containing `un
 
 ---
 
+## ATTENTION
+This project is released for educational and recreational purposes.
+No AI/LLM systems are involved; all computer decisions are based on explicit logic.
+
+---
+
+
 ## Usage
 Run the game with:
 
 ```bash
 python uno.py
+
